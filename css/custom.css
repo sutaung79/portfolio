@@ -1,0 +1,31 @@
+@media (max-width:768px)  { 
+    
+    .mobile-hide {
+        display: none;
+    }
+}
+
+.skill-set {
+    height: 80vh;
+    background-color: #ccbadc61;
+}
+
+.skill-set h4 {
+    margin: 10px;
+}
+
+.skill-set p {
+    font-weight: 700;
+}
+
+.myself {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.introduce {
+    padding-left: 20px;
+    font-weight: 300 !important;
+    color: #000;
+}
+
